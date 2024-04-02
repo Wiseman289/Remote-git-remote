@@ -1,0 +1,34 @@
+pwd -- print working directory
+	> displays your current directory location
+
+cd [location] -- change directory
+	> allows you to move through out your computer 
+
+mkdir [folder name] -- make directory
+	> creates a new folder in the current directory 
+
+ls  [list]
+	> displays/lists the contents of the current directory
+touch [filename] 
+	> creating an ew file in the current directory
+
+rm [filename] 
+	> deleteing/removing a file
+
+---Importnat terms-------
+Repository -- like a folder/container that stores files/folders related to a project. It keeps track of the changes made over time.
+
+[two types of repository]
+	> Local Repository -- version of repository that is stored on your computer
+	> Remote Repository -- version of repository that is stored on your server or cloud-based platform. [Github]
+
+git init 
+	> initialize a folder
+
+git config user.name "<username>"
+git config user.email "<email address">
+	> sets the username and email address of the user
+
+git config user.name 
+git config user.email
+	> to check if username and email are successfully connected
